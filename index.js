@@ -1,11 +1,4 @@
-// hello world
-const mensagem = "Hello, World"
+// arrays
+let metas = ["alô", "Bruno","Márcio"]
 
-{
-    const mensagem = "Hello, you"
-    console.log(mensagem)
-
-}
-
-console.log(mensagem);
-
+console.log(metas[0] + ", " + metas[1])
