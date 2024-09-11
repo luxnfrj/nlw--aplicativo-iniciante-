@@ -36,3 +36,15 @@ Apresentar os dados
 
 - [x] Operadores de atribuição de valor: =
 - [x] Operador de contatenação: +
+
+## Estruturas de dados:
+
+### Arrays: 
+
+- [x] Uma lista que contém qualquer tipo de dado 
+
+### Objetos:
+
+- [x] Atributos e métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso a propriedades de objetos
